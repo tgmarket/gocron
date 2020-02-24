@@ -9,6 +9,6 @@ require (
 	github.com/gomodule/redigo v2.0.0+incompatible // indirect
 	github.com/onsi/ginkgo v1.10.1 // indirect
 	github.com/onsi/gomega v1.7.0 // indirect
-	github.com/stretchr/testify v1.4.0
-	github.com/yuin/gopher-lua v0.0.0-20190514113301-1cd887cd7036 // indirect
+	github.com/yuin/gopher-lua v0.0.0-20191220021717-ab39c6098bdb // indirect
+	gopkg.in/yaml.v2 v2.2.2 // indirect
 )
